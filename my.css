@@ -1,0 +1,62 @@
+body .header-1{
+    text-align: center;
+    color: white;
+    font-family: "Heebo", sans-serif;
+    font-weight: 35 0px;
+}
+body .i-1{
+    text-align: center;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 30%;
+   
+    
+}
+body{
+    background-color: #252627;width: 100%;height: 100%;
+    margin-left: 420px;
+height: 34rem;
+width: 28%;
+border-radius: 12px;
+
+}
+body h2{
+    text-align: center;
+    color: rgb(52, 248, 30);
+    margin: 25px;
+}
+body h3{
+
+    color: white;
+    text-align: center;
+    margin: 45px;
+    font-weight: 500;
+}
+body{
+    font-family: "Heebo", sans-serif;
+}
+
+.link{
+    margin-left: 30%;
+}
+.link button{
+    color: white;
+    background-color: #333;
+    border: none;
+    border-radius: 12px;
+    width:  230px;
+    height: 40px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    cursor: pointer;
+
+
+    
+}
+button:hover{
+    color: #333;
+    background-color: white;
+}
+    
